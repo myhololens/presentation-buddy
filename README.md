@@ -1,5 +1,7 @@
 # Presentation Buddy
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mauricedb/presentation-buddy.svg)](https://greenkeeper.io/)
+
 ![Demo](./images/demo.gif)
 
 ## Features
